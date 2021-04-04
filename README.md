@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://twitter.com/amr_abdelmonsef" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=amr-elabd&show_icons=true)
 
 #### Programming language :
@@ -31,20 +29,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-<img height="32" width="32" style="fill: #1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
-
 <img src="https://img.shields.io/badge/swift-%FFFFFF.svg?&style=plastic&logo=twitter&logoColor=1DA1F2" />
+-->
 
 <hr>
 <p align="center">
   <i>Let's connect ! 📫 How to reach me. 👇🏻 </i>
 <p align="center">
-    <a href="https://twitter.com/amr_abdelmonsef" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
-    <a href="https://www.linkedin.com/in/madahetooo/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
-    <a href="https://www.facebook.com/madahetooo" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
-    <a href="https://github.com/madahetooo" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://twitter.com/amr_abdelmonsef" alt="Twitter"><img height="32" width="32" src="https://github.com/amr-elabd/amr-elabd/blob/main/icons/Twitter-logo.png" /></a>
+    <a href="https://www.linkedin.com/in/amroabdelmonsef/" alt="Linkedin"><img height="32" width="32" src="https://github.com/amr-elabd/amr-elabd/blob/main/icons/LI-In-logo.png"></a>
+    <a href="https://www.facebook.com/amr.abdelmonsef.elabd/" alt="Facebook"><img height="32" width="32" src="https://github.com/amr-elabd/amr-elabd/blob/main/icons/fb-logo.png"></a>
+    <a href="https://github.com/amr-elabd" alt="GitHub"><img height="32" width="32" src="https://github.com/amr-elabd/amr-elabd/blob/main/icons/GitHub-logo.png"></a>
 </p>
-  
 </p>
-
--->
