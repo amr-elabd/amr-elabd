@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <br>
   
   #### Programming language : 
-  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/swift-%23ED8B00.svg?&style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
