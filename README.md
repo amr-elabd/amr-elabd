@@ -13,24 +13,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <img src="https://img.shields.io/badge/swift-%23ED8B00.svg?&style=plastic&logo=swift&logoColor=white"/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=amr-elabd&show_icons=true)
-
-#### Programming language :
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/swift-%23ED8B00.svg?&style=plastic&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-#### Frameworks :
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-
-#### Version Controls :
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/swift-%FFFFFF.svg?&style=plastic&logo=twitter&logoColor=1DA1F2" />
 -->
+
+<details>
+  <summary>More about me!</summary>
+  <br>
+  
+  #### Programming language : 
+  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swift-%23ED8B00.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+  #### Frameworks :
+  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+
+  #### Version Controls :
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  
+  
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=amr-elabd&show_icons=true)
+  </details>
 
 <hr>
 <p align="center">
